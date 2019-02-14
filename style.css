@@ -1,0 +1,97 @@
+.top{
+    padding: 10px;
+    background-color: white;
+    width: 90%;
+    height: 70px;
+    position: fixed;
+    top: 2%;
+    z-index: 1;
+    text-align: center;
+}
+
+.top2{
+    padding: 10px;
+    background-color: white;
+    width: 90%;
+    height: 70px;
+    position: fixed;
+    top: 20%;
+    z-index: 1;
+    text-align: center;
+}
+
+.section{
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    background-color: white;
+    position: fixed;
+    bottom: 18%;
+    text-align: center;
+}
+
+.article{
+    height: 150px;
+    width: 285px;
+    padding: 10px;
+    background-color: gray;
+    position: fixed;
+    bottom: 20%;
+    left: 2%;
+    text-align: center;
+}
+
+.heading{
+    height:30px;
+    z-index: 5;
+    width: 270px;
+    padding: 10px;
+    background-color: white;
+    position: fixed;
+    bottom: 32%;
+    left: 22px;
+    text-align: center;
+}
+
+.aside{
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    background-color: white;
+    position: fixed;
+    bottom: 18%;
+    right: 6.2%;
+    text-align: center;
+}
+
+.paragraph{
+    height:30px;
+    z-index: 5;
+    width: 270px;
+    padding: 10px;
+    background-color: white;
+    position: fixed;
+    bottom: 22%;
+    left: 22px;
+    text-align: center;
+}
+
+.footer{
+    padding: 10px;
+    background-color: white;
+    width: 90%;
+    height: 70px;
+    position: fixed;
+    bottom: 0%;
+    z-index: 1;
+    text-align: center;
+}
+
+.body{
+    background: darkgray;
+    background-color: darkgray;
+}
+
+.height{
+    height: 500px;
+}
